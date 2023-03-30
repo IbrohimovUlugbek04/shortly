@@ -129,7 +129,7 @@ ul {
 }
 
 .hero {
-  background-image: url("./images/herobacground.svg");
+  background-image: url("../images/herobacground.svg");
   background-repeat: no-repeat;
   background-position: calc(50% + 500px) top;
 }
@@ -184,7 +184,7 @@ ul {
   position: absolute;
   bottom: -85px;
   padding: 52px 64px;
-  background: url("./images/bgimg.svg"), url("./images/shortenbakground.svg"), #3a3054;
+  background: url("../images/bgimg.svg"), url("../images/shortenbakground.svg"), #3a3054;
   background-repeat: no-repeat;
   background-position: top right, bottom left;
   border-radius: 10px;
@@ -273,7 +273,7 @@ ul {
 }
 
 .statistics-box {
-  background-image: url("./images/line.svg");
+  background-image: url("../images/line.svg");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -354,7 +354,7 @@ ul {
 /* site Statistics style finish  */
 /* site links start  */
 .links {
-  background: url("./images/linksimg.svg"), url("./images/linksbacground.svg"), url("./images/links.svg") #3a3054;
+  background: url("../images/linksimg.svg"), url("../images/linksbacground.svg"), url("../images/links.svg") #3a3054;
   background-repeat: no-repeat;
   background-position: calc(50% + -400px) 0, calc(50% + 415px) 0, calc(50% + -290px) bottom;
 }
